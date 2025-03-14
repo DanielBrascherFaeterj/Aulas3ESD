@@ -51,7 +51,7 @@ int main(void) {
 
 	ordenarAtletasBolha(vAtletas);
 
-	exibir(vAtletas);
+	//exibir(vAtletas);
 
 	return 0;
 }
